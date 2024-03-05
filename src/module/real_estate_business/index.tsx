@@ -1,7 +1,7 @@
-import { Header } from "../../header"
-import { Logo } from "../../header/logo"
-import { SvgBackground } from "../../other/main-svg-background"
+import { Header } from "./header"
+import { Logo } from "./header/logo"
 import "./index.css"
+import { SvgBackground } from "./other/main-svg-background"
 
 export const RealEstateModule = () => {
   return (
