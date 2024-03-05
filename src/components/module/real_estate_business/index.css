@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Urbanist";
+  src: url("/font/Urbanist.ttf")
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/font/Gilroy.otf")
+}
+
+@font-face {
+  font-family: "Gilroy-Regular";
+  src: url("/font/Gilroy-Regular.ttf")
+}
+
+@font-face {
+  font-family: "Gilroy-Semibold";
+  src: url("/font/Gilroy-SemiBold.ttf")
+}
+
+@font-face {
+  font-family: "Gilroy-Thin";
+  src: url("/font/Gilroy-Thin.ttf")
+}
+
+
+* {
+  font-family: "Urbanist";
+}
+
+.gilroy {
+  font-family: "Gilroy";
+}
+
+.gilroy_regular {
+  font-family: "Gilroy-Regular";
+}
+
+.gilroy_semibold {
+  font-family: "Gilroy-Semibold";
+}
+
+.gilroy_thin {
+  font-family: "Gilroy-Thin";
+}
